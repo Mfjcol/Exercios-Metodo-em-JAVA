@@ -1,8 +1,10 @@
+/* Olá, ALexis!! :)  */ 
+
 public class Calculadora {
 	
 	public static void soma  (double num1, double num2 ) {
-		double resultado = num1 + num2;
-		System.out.println("A soma de " + num1 + " e de " + num2 + " e de " + resultado);
+		double resultado = numero1 + numero2;
+		System.out.println("A soma de " + numero1 + " e de " + numero2 + " e de " + resultado);
 		
 	}
 	

@@ -23,7 +23,7 @@ public class parcelas {
 			
 			System.out.println("Valor final para tres parcelas e :" + valorFinal);
 		}else {
-			System.out.println("Número  de parcelas nao aceita");
+			System.out.println("Número de parcelas nao aceita");
 		}
 	}
 
